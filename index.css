@@ -18,10 +18,17 @@ section{
 	border:1px solid black;
 	float: right;
 	width: 30%;
-	font-size: 1.25em;
+	font-size: 1.5em;
 	text-align: center;
-	background-color: pink;
-	padding: 5px;
+	}
+#Icecream{
+	background-color: hotpink;
+}
+#Chocalate{
+	background-color: yellow;
+}
+#Cake{
+	background-color: green;
 }
 .row{
 	width: 100%;
