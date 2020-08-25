@@ -17,18 +17,21 @@ p{
 section{
 	border:1px solid black;
 	float: right;
-	width: 30%;
+	width: auto;
 	font-size: 1.5em;
 	text-align: center;
 	}
 #Icecream{
 	background-color: hotpink;
+	padding: 5px;
 }
 #Chocalate{
 	background-color: yellow;
+	padding: 5px;
 }
 #Cake{
 	background-color: green;
+	padding: 5px;
 }
 .row{
 	width: 100%;
