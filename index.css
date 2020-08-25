@@ -7,7 +7,7 @@ h1{
 	font-size: 3em;
 }
 p{
-	height: 180px;
+	height: auto;
 	margin-top: 20px;
 	margin-right: auto;
 	margin-left: auto;
